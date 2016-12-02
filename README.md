@@ -8,3 +8,5 @@ A Selenium Driven Test Stack for the Slack Electron Application
 - start slack app (inside the docker), 
 - login, join group and send HelloWorld that will be great, 
 - if too much let me know where there is a problem and will reduce scope
+- Write a Test that uses Chromedriver with diffrent user agent
+- Write a Test that Installs and uses Flash Pipa with Chrome Stable
