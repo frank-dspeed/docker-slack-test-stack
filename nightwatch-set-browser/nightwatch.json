@@ -8,7 +8,7 @@
 
   "selenium" : {
     "start_process" : false,
-    "server_path" : "",
+    "host" : "172.17.0.5",
     "log_path" : "",
     "port" : 4444,
     "cli_args" : {
@@ -29,7 +29,7 @@
         "path" : ""
       },
       "desiredCapabilities": {
-        "browserName": "firefox",
+        "browserName": "chrome",
         "marionette": true
       }
     },
